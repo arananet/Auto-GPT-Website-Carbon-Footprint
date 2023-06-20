@@ -1,5 +1,5 @@
-black
-isort
+requests
+json
 flake8
 pylint
 abstract-singleton
@@ -7,3 +7,6 @@ wheel
 setuptools
 build
 twine
+auto_gpt_plugin_template
+colorama
+script

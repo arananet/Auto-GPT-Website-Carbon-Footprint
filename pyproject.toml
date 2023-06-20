@@ -3,14 +3,14 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "auto_gpt_plugin_template"
-version = "0.0.2"
+name = "auto_gpt_sustainability_plugin"
+version = "0.0.1"
 authors = [
-  { name="Torantulino", email="34168009+BillSchumacher@users.noreply.github.com" },
+  { name="arananet", email="arananet@users.noreply.github.com" },
 ]
-description = "The template plugin for Auto-GPT."
+description = "The Auto-GPT Website Carbon Plugin"
 readme = "README.md"
-requires-python = ">=3.8"
+requires-python = ">=3.9"
 classifiers = [
     "Programming Language :: Python :: 3",
     "License :: OSI Approved :: MIT License",
@@ -19,12 +19,12 @@ classifiers = [
 dependencies = ["abstract-singleton"]
 
 [project.urls]
-"Homepage" = "https://github.com/Torantulino/Auto-GPT"
-"Bug Tracker" = "https://github.com/Torantulino/Auto-GPT"
+"Homepage" = "https://github.com/arananet/Auto-GPT-Website-Carbon-Footprint"
+"Bug Tracker" = "https://github.com/arananet/Auto-GPT-Website-Carbon-Footprint/issues"
 
 [tool.black]
 line-length = 88
-target-version = ['py38']
+target-version = ['py310']
 include = '\.pyi?$'
 extend-exclude = ""
 
