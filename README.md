@@ -114,4 +114,4 @@ Experience the plugin's capabilities by testing it to obtain the carbon emission
    Launch Auto-GPT, which should use the Auto-GPT Website Carbon Footprint to retrieve the carbon footprint values from an specific website.
 
 3. **Output example:**
-   <img width="800" alt="Auto-GPT-Website-Carbon-Footprint" src="https://github.com/arananet/Auto-GPT-Website-Carbon-Footprint/blob/main/output.png?raw=true">
+   <img width="800" alt="Auto-GPT-Website-Carbon-Footprint" src="https://github.com/arananet/Auto-GPT-Website-Carbon-Footprint/blob/master/output.png?raw=true">
